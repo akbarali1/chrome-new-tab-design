@@ -1,4 +1,4 @@
-﻿<html>
+<html>
   <head>
     <title id="title"></title>
     <script src="jquery.js"></script>
@@ -35,22 +35,21 @@
         <input type="text" class="form-control" id="myInput" placeholder="Tashkilot nomi bo`yicha saralash" autofocus="">
         <input type="button" id="yopish" value="Yopish" style="position: fixed;right: 0;z-index: 99;padding: 15px;margin: 15px;top: 0;background: red;color: #fff;">
         <ul id="myUL" class="row">
-		</ul>
-		<table class="table table-bordered table-striped table-hover fs-6" style="display: none;" id="tableAll">
-		<thead class="table-dark fs-6" style=" text-align: center; ">
-    <tr class="verticala fs-6">
-      <th scope="col" width="3%">Asosda (Yangi)</th>
-      <th scope="col" width="3%">Print</th>
-      <th scope="col" width="3%">Edit</th>
-      <th scope="col" width="3%">Yozilgan sana</th>
-      <th scope="col" width="3%">№</th>
-      <th scope="col" width="5%">Summa</th>
-      <th scope="col">Tashkilotlar</th>
-      <th scope="col" width="5%">MFO</th>
-      <th scope="col" width="5%">Xisob raqamlar</th>
-    </tr>
-  </thead>
-		
+        </ul>
+        <table class="table table-bordered table-striped table-hover fs-6" style="display: none;" id="tableAll">
+          <thead class="table-dark fs-6" style=" text-align: center; ">
+            <tr class="verticala fs-6">
+              <th scope="col" width="3%">Asosda (Yangi)</th>
+              <th scope="col" width="3%">Print</th>
+              <th scope="col" width="3%">Edit</th>
+              <th scope="col" width="3%">Yozilgan sana</th>
+              <th scope="col" width="3%">№</th>
+              <th scope="col" width="5%">Summa</th>
+              <th scope="col">Tashkilotlar</th>
+              <th scope="col" width="5%">MFO</th>
+              <th scope="col" width="5%">Xisob raqamlar</th>
+            </tr>
+          </thead>
           <tbody id="tbodtall">
           </tbody>
         </table>
@@ -60,8 +59,7 @@
       <div class="search-wrapper active">
         <form action="http://ish.webschool.uz/porucheniya/search/" method="post">
           <div class="input-holder">
-            <input type="search" class="search-input" placeholder="Porucheniyada yozilgan id raqamni yozing"
-              name="search" accesskey="s" />
+            <input type="search" class="search-input" placeholder="Porucheniyada yozilgan id raqamni yozing" name="search" accesskey="s" required/>
             <button class="search-icon" type="submit"><span></span></button>
           </div>
         </form>
@@ -72,17 +70,6 @@
       </div>
       <div class="card-body" id="tabletest" style=" background: #f2f2f2; ">
         <table class="table table-bordered table-striped table-hover fs-6">
-          <!-- <thead class="table-dark fs-6" style=" text-align: center; ">
-            <tr class="verticala fs-6">
-                <th scope="col" width="3%">Asosda (Yangi)</th>
-                <th scope="col" width="3%">Chop etish</th>
-                <th scope="col" width="3%">Edit</th>
-                <th scope="col" width="3%">Yozilgan sana</th>
-                <th scope="col">Pul chiqqan tashkilot</th>
-                <th scope="col" width="5%">Summa</th>
-                <th scope="col">To'lov maqsadi</th>
-            </tr>
-            </thead> -->
           <tbody id="myTable">
           </tbody>
         </table>
