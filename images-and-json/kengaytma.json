@@ -1,0 +1,72 @@
+{
+    "success": true,
+    "message": {
+        "title": "Tizimga xush kelibsiz!",
+        "porucheniya": [
+            {
+                "id": 4655,
+                "time": "09.07.2021",
+                "chiqnm": "Bu nomi ",
+                "money": "550 000",
+                "kirnm": "Bu yana nomi",
+                "maqsad": "Bu esa maqsadi",
+                "print": "http:\/\/google.uz",
+                "basisnew": "http:\/\/google.uz",
+                "edit": "http:\/\/google.uz",
+                "summaedit": "http:\/\/google.uz",
+                "xususiy_link": "http:\/\/google.uz"
+            },
+            {
+                "id": 4656,
+                "time": "09.07.2021",
+                "chiqnm": "Bu nomi ",
+                "money": "550 000",
+                "kirnm": "Bu yana nomi",
+                "maqsad": "Bu esa maqsadi",
+                "print": "http:\/\/google.uz",
+                "basisnew": "http:\/\/google.uz",
+                "edit": "http:\/\/google.uz",
+                "summaedit": "http:\/\/google.uz",
+                "xususiy_link": "http:\/\/google.uz"
+            },{
+                "id": 4657,
+                "time": "09.07.2021",
+                "chiqnm": "Bu nomi ",
+                "money": "550 000",
+                "kirnm": "Bu yana nomi",
+                "maqsad": "Bu esa maqsadi",
+                "print": "http:\/\/google.uz",
+                "basisnew": "http:\/\/google.uz",
+                "edit": "http:\/\/google.uz",
+                "summaedit": "http:\/\/google.uz",
+                "xususiy_link": "http:\/\/google.uz"
+            }
+        ],
+        "page_info": [
+            {
+                "link": "http:\/\/google.uz",
+                "name": "Nomi",
+                "description": "BU esa Hover bo`lganda tushuntirish uchun",
+                "accesskey": "p"
+            },
+            {
+                "link": "http:\/\/google.uz",
+                "name": "Nomi",
+                "description": "BU esa Hover bo`lganda tushuntirish uchun",
+                "accesskey": "p"
+            },
+            {
+                "link": "https:\/\/my.soliq.uz\/searchtin\/index?user_type=1",
+                "name": "INN tortish",
+                "description": "Soliqdan INN olish uchun shunga kiring",
+                "accesskey": "i"
+            },
+            {
+                "link": "https:\/\/www.remove.bg\/",
+                "name": "Rasmni orqasini tozalash",
+                "description": "Rasmni orqa fonini olish uchun shunga kiring",
+                "accesskey": "r"
+            }
+        ]
+    }
+}

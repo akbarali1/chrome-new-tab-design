@@ -1,0 +1,58 @@
+{
+    "success": true,
+    "message": {
+        "info": [
+            {
+                "id": 1,
+                "inn": 123456789,
+                "link": "http:\/\/google.uz",
+                "name": "Bu nomi"
+            },{
+                "id": 2,
+                "inn": 123456789,
+                "link": "http:\/\/google.uz",
+                "name": "Bu nomi"
+            },{
+                "id": 3,
+                "inn": 123456789,
+                "link": "http:\/\/google.uz",
+                "name": "Bu nomi"
+            },{
+                "id": 4,
+                "inn": 123456789,
+                "link": "http:\/\/google.uz",
+                "name": "Bu nomi"
+            },{
+                "id": 5,
+                "inn": 123456789,
+                "link": "http:\/\/google.uz",
+                "name": "Bu nomi"
+            },{
+                "id": 6,
+                "inn": 123456789,
+                "link": "http:\/\/google.uz",
+                "name": "Bu nomi"
+            },{
+                "id": 7,
+                "inn": 123456789,
+                "link": "http:\/\/google.uz",
+                "name": "Bu nomi"
+            },{
+                "id": 8,
+                "inn": 123456789,
+                "link": "http:\/\/google.uz",
+                "name": "Bu nomi"
+            },{
+                "id": 9,
+                "inn": 123456789,
+                "link": "http:\/\/google.uz",
+                "name": "Bu nomi"
+            },{
+                "id": 10,
+                "inn": 123456789,
+                "link": "http:\/\/google.uz",
+                "name": "Bu nomi"
+            }
+        ]
+    }
+}

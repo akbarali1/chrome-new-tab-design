@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "message": {
+        "title": "BU title uchun chiqadigan nomi",
+        "info": [
+            {
+                "xususiy_link": "http:\/\/google.uz",
+                "trinn": 123456789,
+                "id": 3853,
+                "time": "27.05.2021",
+                "no": 1,
+                "chiqnm": "Bu nomi",
+                "chiqmfo": "00014",
+                "kirmfo": "00014",
+                "money": "2 300 000",
+                "kirnm": "Bu nomi",
+                "maqsad": "BU maqsadi",
+                "chiqxr": "20202020202020202020",
+                "kirxr": "23402000300100001010",
+                "basisnew": "http:\/\/google.uz",
+                "print": "http:\/\/google.uz",
+                "edit": "http:\/\/google.uz",
+                "summaedit": "http:\/\/google.uz"
+            }
+        ],
+        "trinn": 123456789
+    }
+}
